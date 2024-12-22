@@ -8,11 +8,13 @@
 <body>
     <h1>Welcome to PHP with HTML</h1>
     <p>The current date and time is:</p>
+    <p>The current NAME is:</p>
     <p>
         <?php
             // Display the current date and time
             //hello bitch
             //test #2
+            //TEST #3
             echo date('Y-m-d H:i:s');
         ?>
     </p>
