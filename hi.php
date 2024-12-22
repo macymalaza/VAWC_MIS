@@ -11,6 +11,8 @@
     <p>
         <?php
             // Display the current date and time
+            //hello bitch
+            //test #2
             echo date('Y-m-d H:i:s');
         ?>
     </p>
